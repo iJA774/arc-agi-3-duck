@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+*.log
+*.parquet
+*.safetensors
+*.whl
+.env
+kaggle.json
+run_manifest.json
+run_summary.json
+server_recording/
